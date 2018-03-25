@@ -47,7 +47,6 @@ CloutForm that dream is now a reality.
 
 ### How It Works
 
-How It Works:
 The CloutForm Network is a fully
 interactive Social Layer that helps
 connect everyones favorite social media
@@ -101,7 +100,7 @@ Social Media Search Engine.
 
 ### What is CloutCash?
 
- To streamline the payment process on the
+To streamline the payment process on the
 platform, we have created The CloutCash
 Credit (CCC), the native currency of the
 CloutForm Network, which powers all of
@@ -163,12 +162,13 @@ stated earlier, we will be fully
 integrated with PayPal.
 
 ### CloutCash Credit Pricing
-
+````
 0 - 100 Mil Credits Sold: 0.01 Cent
 100 - 200 Mil Credits Sold: 0.02 Cents
 200 - 300 Mil Credits Sold: 0.03 Cents
 300 - 400 Mil Credits Sold: 0.04 Cents
 400 Mil Credits Sold + : 0.05 Cents
+````
 
 ### How Does Advertising Work?
 
