@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://i.imgur.com/JJiRwkF.png">
+</p>
 
 ## Whitepaper
 
